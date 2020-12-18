@@ -16,6 +16,8 @@ public class GitHubBranchCheckInOut {
 	@Test
 	public void teamUserTwotc2() {
 		System.out.println("Team User Two");
+		System.out.println("Team User One Update 1");
+		System.out.println("Team User One Update 2");
 	}
 	@Test
 	public void teamUserThreetc3() {
